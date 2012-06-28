@@ -1,0 +1,8 @@
+These files provide examples of usage, usually combinations of different
+scripts in this repository to solve specific problems or requirements.
+
+ offhook_tones.php    Provides "dialtone pulsing" for any GXP device
+                      that picks up a line to make a new call.
+
+ onhook_rescreen.php  Instructs any GXP device to pick up a new idle
+                      screen as soon as it closes an existing call.
